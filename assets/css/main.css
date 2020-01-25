@@ -2641,8 +2641,7 @@ input, select, textarea {
 				position: absolute;
 				height: auto;
 				width: 99%;
-				padding-top: 3.5em;
-				padding-bottom: 3.5em;
+				padding-top: 1.5em;
 			}
 
 		.feature:before {
@@ -2655,7 +2654,7 @@ input, select, textarea {
 
 		.feature .content {
 			display: inline-block;
-			padding-top: 3.5em;
+			padding-top: 1.5em;
 			padding-bottom: 5.5em;
 			padding-left: 3.5em;
 			padding-right: 3.5em;
@@ -3022,7 +3021,8 @@ input, select, textarea {
 			}
 
 				.feature .content {
-					padding: 2.5em;
+					padding: 1.5em;
+					padding-bottom: 5.5em;
 				}
 
 		/* Header */
@@ -3167,13 +3167,14 @@ input, select, textarea {
 
 				.feature .image {
 					float: none;
-					height: 15em;
+					height: auto;
 					width: 100%;
 				}
 
 				.feature .content {
 					border: solid 1px rgba(224, 224, 224, 0.75);
-					padding: 2em !important;
+					padding: 1.5em !important;
+					padding-bottom: 5.5em;
 					text-align: center;
 					width: 100%;
 				}
@@ -3270,7 +3271,7 @@ input, select, textarea {
 			}
 
 				.feature .content {
-					padding: 2em 1em !important;
+					padding: 1.5em 1.5em !important;
 				}
 
 		/* Main */
