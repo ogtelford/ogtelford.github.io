@@ -2641,7 +2641,8 @@ input, select, textarea {
 				position: absolute;
 				height: auto;
 				width: 99%;
-				padding-top: 1.5em;
+				padding-top: 3.5em;
+				padding-bottom: 3.5em;
 			}
 
 		.feature:before {
@@ -2654,7 +2655,7 @@ input, select, textarea {
 
 		.feature .content {
 			display: inline-block;
-			padding-top: 1.5em;
+			padding-top: 3.5em;
 			padding-bottom: 5.5em;
 			padding-left: 3.5em;
 			padding-right: 3.5em;
