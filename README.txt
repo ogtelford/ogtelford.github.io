@@ -1,11 +1,12 @@
-This website uses a modified version of the Directive HTML5 UP template (see below).
+Grace Telford's professional website for astrophysics research.
 
 
+
+This website uses a modified version of the Directive HTML5 UP template.
 
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 A simple single pager built around an angular motif (powered by SVG awesomeness).
 Should work great for a landing page. Also includes default styling for a bunch of
