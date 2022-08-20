@@ -1,6 +1,6 @@
 ### Grace Telford's professional website for astrophysics research.
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 This website uses a modified version of the Directive HTML5 UP template.
 
